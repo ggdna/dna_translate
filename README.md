@@ -12,7 +12,7 @@ The DNA layer that keeps German and English documentation in sync.
 Declare it as a dev-dependency and initialize once:
 
 ```bash
-pnpm add -D @tssuite/dna-translate   # TypeScript projects
+pnpm add -D @ggdna/dna-translate   # TypeScript projects
 dart pub add dev:dna_translate    # Dart projects
 helix init
 ```

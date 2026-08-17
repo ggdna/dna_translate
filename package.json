@@ -1,5 +1,5 @@
 {
-  "name": "@tssuite/dna-translate",
+  "name": "@ggdna/dna-translate",
   "version": "0.0.0",
   "description": "DNA layer: multi-language rules for guides, docs and README files",
   "keywords": [
