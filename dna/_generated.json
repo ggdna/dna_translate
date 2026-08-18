@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0x0d1662a5d8bc8d02"
+      "hash": "0xae4ae9c52f0b7979"
     }
   ],
   "claude": {
@@ -26,8 +26,8 @@
   "hash": null,
   "instances": [
     {
-      "path": "doc/en/guides/multi-language-guide.md",
-      "hash": "0x94e86cf8bc356a74"
+      "path": "doc/guides/multi-language-guide.md",
+      "hash": "0xbe4a574b045e622b"
     }
   ]
 }
