@@ -4,8 +4,8 @@ The DNA layer that keeps German and English documentation in sync.
 
 ## Content
 
-- `dna/doc/en/guides/multi-language-guide.md` — when and how to translate
-  `doc/de`, `doc/en`, `README.md` and `README.de.md`
+- `dna/doc/guides/multi-language-guide.md` — when and how to translate
+  `doc`, `doc/de`, `README.md` and `README.de.md`
 
 ## Usage
 
