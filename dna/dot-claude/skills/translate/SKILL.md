@@ -26,6 +26,8 @@ Report three groups:
 - German files without an English counterpart
 - pairs whose newer side changed after the older one, from `git log -1`
 
+Cover the blog the same way: `blog/<year>` against `blog/de/<year>`.
+
 Stop here and report when every pair is complete and current — there is
 nothing to translate.
 
