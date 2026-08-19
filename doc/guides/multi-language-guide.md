@@ -18,3 +18,11 @@ found in the LICENSE file in the root of this package.
 - Translate content- and structure-equal
 - Do not translate commands, code, paths, APIS
 - Do not translate literally
+
+## Blog posts
+
+- Start a post in the language of the prompt
+- Put english posts into `blog/2026`, german ones into `blog/de/2026`
+- Copy `doc/templates/blog-template-de.md` for a german post
+- Keep the file name in english kebab case in both languages
+- Follow the [Blog Guide](doc/guides/blog-guide.md) for everything else
