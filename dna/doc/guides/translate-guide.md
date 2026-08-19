@@ -6,7 +6,7 @@ Use of this source code is governed by terms that can be
 found in the LICENSE file in the root of this package.
 -->
 
-# Multi-Language Guide
+# Translate Guide
 
 - Keep English documentation in `doc`, German documentation in `doc/de`
 - Make sure changes in German documentation

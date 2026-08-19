@@ -13,7 +13,7 @@ found in the LICENSE file in the root of this package.
 
 # Translate
 
-Read `doc/guides/multi-language-guide.md` and follow it.
+Read `doc/guides/translate-guide.md` and follow it.
 
 ## 1. Find what is out of sync
 
