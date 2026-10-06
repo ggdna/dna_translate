@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `dna_translate` package.
-const String dnaTranslateVersion = '0.1.1';
+const String dnaTranslateVersion = '0.1.2';
