@@ -27,7 +27,6 @@ other layers by the consuming repo.
 ## Variables
 
 - `dnaCopyrightHolder` — the name in the license header of every file
-- `dnaYear` — the year folder blog posts are filed under
 
 ## Usage
 
