@@ -1,6 +1,6 @@
 {
   "name": "@ggdna/dna-translate",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "DNA layer: multi-language rules for guides, docs and README files",
   "keywords": [
     "dna",
