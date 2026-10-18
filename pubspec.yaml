@@ -1,6 +1,6 @@
 name: dna_translate
 description: "DNA layer: multi-language rules for guides, docs and README files"
-version: 0.2.0
+version: 0.3.0
 repository: https://github.com/ggdna/dna_translate.git
 
 environment:
