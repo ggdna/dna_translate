@@ -1,7 +1,7 @@
 {
   "name": "@ggdna/dna-translate",
   "version": "0.3.0",
-  "description": "DNA layer: multi-language rules for guides, docs and README files",
+  "description": "Gives a repo the rules and a skill to keep its English and German documentation and README in sync.",
   "keywords": [
     "dna",
     "helix",
