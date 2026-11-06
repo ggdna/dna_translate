@@ -5,7 +5,7 @@
       "name": "base",
       "package": "helix",
       "ecosystem": null,
-      "resolvedVersion": "1.12.0",
+      "resolvedVersion": "1.14.0",
       "via": null,
       "hash": "0x6883da335b415f9d"
     },
@@ -15,23 +15,23 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0xfec6f71367d12db6"
+      "hash": "0x3039779d72fb105f"
     }
   ],
   "claude": {
     "claudeMdInclude": null,
     "claudeMdFromDna": false
   },
-  "baseVersion": "1.12.0",
+  "baseVersion": "1.14.0",
   "baseHash": "0x6883da335b415f9d",
   "instances": [
     {
       "path": ".claude/skills/translate/SKILL.md",
-      "hash": "0x7935395ce42aedfa"
+      "hash": "0x3b34cef6c2b790a8"
     },
     {
       "path": "doc/guides/translate-guide.md",
-      "hash": "0x9ed294693fdcea87"
+      "hash": "0xa677037143b642e7"
     },
     {
       "path": "doc/templates/blog-template-de.md",
