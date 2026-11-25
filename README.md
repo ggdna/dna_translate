@@ -19,6 +19,12 @@ The DNA layer that keeps documentation in sync across languages.
 - `/translate` — reports missing counterparts and pairs that drifted
   apart, then translates what is missing
 
+## Publishing
+
+`dna/dot-pubignore` keeps `/doc/guides/` and `/doc/templates/` out of the
+package `dart pub publish` uploads. helix joins it with the ignore files of the
+other layers into the project's `.pubignore`.
+
 ## Layers
 
 Orthogonal: this layer carries only its own topic and is combined with
