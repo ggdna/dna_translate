@@ -19,7 +19,7 @@ found in the LICENSE file in the root of this package.
 - Do not translate commands, code, paths, APIS
 - Do not translate literally
 
-## Blog posts
+## @blog Blog posts
 
 - Start a post in the language of the prompt
 - Put english posts into `doc/blog/<yyyy>`, german ones into
