@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0x18124d421abec3df"
+      "hash": "0x5f5ce89a81e1d577"
     }
   ],
   "claude": {
@@ -38,15 +38,15 @@
     },
     {
       "path": "doc/de/guides/translate-guide.md",
-      "hash": "0xaf007a7f9e82f9e7"
+      "hash": "0x44cd95c933fb803d"
     },
     {
       "path": "doc/en/guides/translate-guide.md",
-      "hash": "0x45d2c0b2cb932e5c"
+      "hash": "0x15ea2b489b490f89"
     },
     {
       "path": "doc/fa/guides/translate-guide.md",
-      "hash": "0x005ab50784e3be2d"
+      "hash": "0x97524b2d41a86f79"
     }
   ]
 }
