@@ -4,15 +4,15 @@ The DNA layer that keeps documentation in sync across languages.
 
 ## Guides
 
-- `dna/doc/guides/translate-guide.md` — when and how to translate `doc`,
-  `doc/de`, `README.md` and `README.de.md`, and where blog posts of each
-  language belong
+- `dna/doc/en/guides/translate-guide.md` — which languages the repo keeps,
+  how `doc/<lang>`, `pm/<lang>` and `README.<lang>.md` stay in sync, and
+  where blog posts of each language belong
 
-## Templates
+Every file of `dna/doc/en/` also ships in German and Farsi, with the
+same name:
 
-- `dna/doc/templates/blog-template-de.md` — the structure of a german
-  blog post; the english one comes from
-  [dna_blog](https://github.com/ggdna/dna_blog)
+- `dna/doc/de/guides/`
+- `dna/doc/fa/guides/`
 
 ## Skills
 
@@ -21,7 +21,7 @@ The DNA layer that keeps documentation in sync across languages.
 
 ## Publishing
 
-`dna/dot-pubignore` keeps `/doc/guides/` and `/doc/templates/` out of the
+`dna/dot-pubignore` keeps `/doc/*/guides/` out of the
 package `dart pub publish` uploads. helix joins it with the ignore files of the
 other layers into the project's `.pubignore`.
 
@@ -33,6 +33,8 @@ other layers by the consuming repo.
 ## Variables
 
 - `dnaCopyrightHolder` — the name in the license header of every file
+- `dnaLanguages` — the languages of the repo as two-letter codes, the
+  leading one first, separated by commas; default `en`, e.g. `en,de,fa`
 
 ## Usage
 
